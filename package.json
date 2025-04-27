@@ -1,0 +1,31 @@
+{
+  "name": "coldcallai",
+  "version": "1.0.0",
+  "description": "a serveless AI Agent that generates cold call emails efficiently",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "baseai": "baseai"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philtwo/ColdCallAI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/philtwo/ColdCallAI/issues"
+  },
+  "homepage": "https://github.com/philtwo/ColdCallAI#readme",
+  "dependencies": {
+    "@baseai/core": "^0.9.43",
+    "dotenv": "^16.5.0",
+    "inquirer": "^12.6.0",
+    "ora": "^8.2.0"
+  },
+  "devDependencies": {
+    "baseai": "^0.9.43"
+  }
+}
