@@ -1,2 +1,2 @@
 # ColdCallAI
-a serveless AI Agent that generates cold call emails efficiently
+a serverless AI Agent that generates cold call emails efficiently
